@@ -1,3 +1,3 @@
 # Linear-Regression-for-Bike-Sharing-Profits
 
-Linear Regression Model for profit prediction using bike sharing data.
+Univariate Linear Regression Model for profit prediction using bike sharing data.
